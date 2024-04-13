@@ -43,7 +43,7 @@ section {
 }
 
 footer {
-    position: fixed; /* Fixiert den Footer am unteren Bildschirmrand */
+    position: realtiv; /* Fixiert den Footer am unteren Bildschirmrand */
     left: 0;
     bottom: 0;
     width: 100%; /* Breite des Footers auf 100% der Bildschirmbreite setzen */
