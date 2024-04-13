@@ -1,0 +1,57 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f7f7; /* Hellgrauer Hintergrund für den Body */
+}
+
+header { 
+    background-image: url("https://www.kindernetz.de/wissen/1611230920701%2Ceuropa-deutschland-102~_v-16x9@2dL_-6c42aff4e68b43c7868c3240d3ebfa29867457da.jpg");
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+   
+}
+
+
+
+main {
+    padding: 20px;
+}
+
+section {
+    background-color: #fff; /* Weißer Hintergrund für Abschnitte */
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Schatten für Abschnitte */
+    transition: background-color 0.3s ease; /* Übergangseffekt für die Hintergrundfarbe */
+}
+
+
+#celebration-section {
+    background-color: #e0e0e0; /* Hellgraue Hintergrundfarbe für Willkommensabschnitt */
+}
+
+#history-section {
+    background-color: #e0e0e0; /* Graue Hintergrundfarbe für Geschichtsabschnitt */
+}
+
+#how-section {
+    background-color: #e0e0e0;; /* Noch hellere graue Hintergrundfarbe für Feierabschnitt */
+}
+
+footer {
+    position: fixed; /* Fixiert den Footer am unteren Bildschirmrand */
+    left: 0;
+    bottom: 0;
+    width: 100%; /* Breite des Footers auf 100% der Bildschirmbreite setzen */
+    background-color: #101010; /* Dunkle Hintergrundfarbe für den Footer */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+    background-color: #101010; /* Dunkle Hintergrundfarbe für den Footer */
+    color: #fff;
+    text-align: center;
+    padding: 20px 0;
+}
